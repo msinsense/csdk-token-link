@@ -1,0 +1,6 @@
+{
+  "name": "csdkTokenLink",
+  "source": ["config.js", "main.js"],
+  "pluginInfraVersion": 2,
+  "isEnabled": true
+}
